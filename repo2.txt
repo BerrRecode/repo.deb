@@ -1,0 +1,5 @@
+deb http://kebo.vlsm.org/debian/ buster main contrib non-free
+
+deb http://kebo.vlsm.org/debian/ buster-updates main contrib non-free
+
+deb http://kebo.vlsm.org/debian-security/ buster/updates main contrib non-free
